@@ -1,0 +1,7 @@
+C:\Users\Szántó Benjámin\source\repos\GroupMaker\GroupMaker\bin\Debug\GroupMaker.exe.config
+C:\Users\Szántó Benjámin\source\repos\GroupMaker\GroupMaker\bin\Debug\GroupMaker.exe
+C:\Users\Szántó Benjámin\source\repos\GroupMaker\GroupMaker\bin\Debug\GroupMaker.pdb
+C:\Users\Szántó Benjámin\source\repos\GroupMaker\GroupMaker\obj\Debug\GroupMaker.csproj.AssemblyReference.cache
+C:\Users\Szántó Benjámin\source\repos\GroupMaker\GroupMaker\obj\Debug\GroupMaker.csproj.CoreCompileInputs.cache
+C:\Users\Szántó Benjámin\source\repos\GroupMaker\GroupMaker\obj\Debug\GroupMaker.exe
+C:\Users\Szántó Benjámin\source\repos\GroupMaker\GroupMaker\obj\Debug\GroupMaker.pdb
