@@ -9,4 +9,6 @@ GroupService.MakeOf(students)
             .Print();
 ```
 
+## The picture is only an illustration
+
 ![8544afbe-13d2-4791-8d21-3441cdece5c0](https://github.com/vellt/method_chaining/assets/61885011/02dff723-e453-47c5-b7cb-c68222bb8881)
